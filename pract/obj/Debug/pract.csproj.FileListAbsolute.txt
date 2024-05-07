@@ -1,0 +1,10 @@
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract\bin\Debug\pract.exe.config
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract\bin\Debug\pract.exe
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract\bin\Debug\pract.pdb
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract\obj\Debug\pract.csproj.AssemblyReference.cache
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract\obj\Debug\pract.Form1.resources
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract\obj\Debug\pract.Properties.Resources.resources
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract\obj\Debug\pract.csproj.GenerateResource.cache
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract\obj\Debug\pract.csproj.CoreCompileInputs.cache
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract\obj\Debug\pract.exe
+C:\Users\31nob\OneDrive\Рабочий стол\Программы\Основы алгритмизции\pract\obj\Debug\pract.pdb
